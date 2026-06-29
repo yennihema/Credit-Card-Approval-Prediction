@@ -1,2 +1,10 @@
-# AIML-Track-Credit-Card-Approval-prediction
-A machine learning classification model to predict credit card application approvals based on user demographics and financial historical data for the AI-ML track project.
+# Credit-Card-Approval-prediction
+Repository Structure
+1. Brainstorming & Ideation
+2. Requirement Analysis
+3. Project Design Phase
+4. Project Planning Phase
+5. Project Development Phase
+6. Project Testing
+7. Project Documentation
+8. Project Demonstration
